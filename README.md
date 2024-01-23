@@ -1,4 +1,4 @@
-# 01-alura_mind 
+# 01-alura_mid 
 ## curso javascript alura
 
 ### Conhecendo javascript
